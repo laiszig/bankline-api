@@ -62,4 +62,12 @@ public class Movimentacao {
     public void setTipo(MovimentacaoTipo tipo) {
         this.tipo = tipo;
     }
+
+    public Integer getIdConta() {
+        return idConta;
+    }
+
+    public void setIdConta(Integer idConta) {
+        this.idConta = idConta;
+    }
 }
