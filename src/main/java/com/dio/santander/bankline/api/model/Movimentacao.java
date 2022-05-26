@@ -14,7 +14,7 @@ public class Movimentacao {
     @Column(name = "data_hora")
     private LocalDateTime dataHora;
 
-    private String descriao;
+    private String descricao;
     private Double valor;
 
     @Enumerated(EnumType.STRING)
@@ -39,12 +39,12 @@ public class Movimentacao {
         this.dataHora = dataHora;
     }
 
-    public String getDescriao() {
-        return descriao;
+    public String getDescricao() {
+        return descricao;
     }
 
-    public void setDescriao(String descriao) {
-        this.descriao = descriao;
+    public void setDescricao(String descriao) {
+        this.descricao = descriao;
     }
 
     public Double getValor() {
