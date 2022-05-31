@@ -1,4 +1,4 @@
-<h1>Bankline REST API with JAVA </h1>
+<h1>Bankline REST API with JAVA/ANGULAR </h1>
 <p> Projeto Springboot/Angular </strong> realizando pela plataforma de cursos online <a href="https://dio.me/"><strong> Digital Innovation One</strong></a>.<br>
 
 <h2>🎯 Objetivo do Projeto </h2>
